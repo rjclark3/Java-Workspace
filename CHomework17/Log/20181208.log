@@ -1,0 +1,92 @@
+2018/12/08 03:22:08 - Default.FMain.windowOpened(FMain.java:174)
+	Utilities.CDatabaseUtilities.OpenDatabaseConnection(CDatabaseUtilities.java:46)
+net.ucanaccess.jdbc.UcanaccessDriver
+2018/12/08 03:53:24 - Default.FMain.windowOpened(FMain.java:174)
+	Utilities.CDatabaseUtilities.OpenDatabaseConnection(CDatabaseUtilities.java:46)
+net.ucanaccess.jdbc.UcanaccessDriver
+2018/12/08 03:53:41 - Default.FMain.windowOpened(FMain.java:174)
+	Utilities.CDatabaseUtilities.OpenDatabaseConnection(CDatabaseUtilities.java:46)
+net.ucanaccess.jdbc.UcanaccessDriver
+2018/12/08 04:09:05 - Default.FMain.windowOpened(FMain.java:166)
+	Utilities.CDatabaseUtilities.OpenDatabaseConnection(CDatabaseUtilities.java:46)
+net.ucanaccess.jdbc.UcanaccessDriver
+2018/12/08 04:09:59 - Default.FMain.windowOpened(FMain.java:166)
+	Utilities.CDatabaseUtilities.OpenDatabaseConnection(CDatabaseUtilities.java:46)
+net.ucanaccess.jdbc.UcanaccessDriver
+2018/12/08 04:13:38 - Default.FMain.windowOpened(FMain.java:166)
+	Utilities.CDatabaseUtilities.OpenDatabaseConnection(CDatabaseUtilities.java:46)
+net.ucanaccess.jdbc.UcanaccessDriver
+2018/12/08 04:19:21 - Default.FMain.windowOpened(FMain.java:166)
+	Utilities.CDatabaseUtilities.OpenDatabaseConnection(CDatabaseUtilities.java:46)
+net.ucanaccess.jdbc.UcanaccessDriver
+2018/12/08 04:20:13 - Default.FMain.windowOpened(FMain.java:166)
+	Utilities.CDatabaseUtilities.OpenDatabaseConnection(CDatabaseUtilities.java:46)
+net.ucanaccess.jdbc.UcanaccessDriver
+2018/12/08 04:21:23 - Default.FMain.windowOpened(FMain.java:166)
+	Utilities.CDatabaseUtilities.OpenDatabaseConnection(CDatabaseUtilities.java:46)
+net.ucanaccess.jdbc.UcanaccessDriver
+2018/12/08 04:22:19 - Default.FMain.actionPerformed(FMain.java:448)
+	Default.FMain.btnAssignTeamPlayers_Click(FMain.java:401)
+	Default.FMain.AssignTeamPlayers(FMain.java:425)
+	TeamPlayers.DAssignTeamPlayers.actionPerformed(DAssignTeamPlayers.java:420)
+	TeamPlayers.DAssignTeamPlayers.btnAdd_Click(DAssignTeamPlayers.java:511)
+	Utilities.CDatabaseUtilities.AddPlayerToTeamInDatabase(CDatabaseUtilities.java:1057)
+	net.ucanaccess.jdbc.UcanaccessResultSet.insertRow(UcanaccessResultSet.java:836)
+invalid cursor state: all column must be set before insert
+2018/12/08 04:24:10 - Default.FMain.actionPerformed(FMain.java:447)
+	Default.FMain.mniToolsAssignTeamPlayers_Click(FMain.java:344)
+	Default.FMain.AssignTeamPlayers(FMain.java:425)
+	TeamPlayers.DAssignTeamPlayers.actionPerformed(DAssignTeamPlayers.java:420)
+	TeamPlayers.DAssignTeamPlayers.btnAdd_Click(DAssignTeamPlayers.java:511)
+	Utilities.CDatabaseUtilities.AddPlayerToTeamInDatabase(CDatabaseUtilities.java:1057)
+	net.ucanaccess.jdbc.UcanaccessResultSet.insertRow(UcanaccessResultSet.java:836)
+invalid cursor state: all column must be set before insert
+2018/12/08 04:33:51 - Default.FMain.actionPerformed(FMain.java:448)
+	Default.FMain.btnAssignTeamPlayers_Click(FMain.java:401)
+	Default.FMain.AssignTeamPlayers(FMain.java:425)
+	TeamPlayers.DAssignTeamPlayers.actionPerformed(DAssignTeamPlayers.java:420)
+	TeamPlayers.DAssignTeamPlayers.btnAdd_Click(DAssignTeamPlayers.java:511)
+	Utilities.CDatabaseUtilities.AddPlayerToTeamInDatabase(CDatabaseUtilities.java:1057)
+	net.ucanaccess.jdbc.UcanaccessResultSet.insertRow(UcanaccessResultSet.java:836)
+invalid cursor state: all column must be set before insert
+2018/12/08 04:51:05 - Default.FMain.actionPerformed(FMain.java:448)
+	Default.FMain.btnAssignTeamPlayers_Click(FMain.java:401)
+	Default.FMain.AssignTeamPlayers(FMain.java:425)
+	TeamPlayers.DAssignTeamPlayers.actionPerformed(DAssignTeamPlayers.java:420)
+	TeamPlayers.DAssignTeamPlayers.btnAdd_Click(DAssignTeamPlayers.java:511)
+	Utilities.CDatabaseUtilities.AddPlayerToTeamInDatabase(CDatabaseUtilities.java:1057)
+	net.ucanaccess.jdbc.UcanaccessResultSet.insertRow(UcanaccessResultSet.java:836)
+invalid cursor state: all column must be set before insert
+2018/12/08 05:06:47 - Default.FMain.actionPerformed(FMain.java:448)
+	Default.FMain.btnAssignTeamPlayers_Click(FMain.java:401)
+	Default.FMain.AssignTeamPlayers(FMain.java:425)
+	TeamPlayers.DAssignTeamPlayers.actionPerformed(DAssignTeamPlayers.java:420)
+	TeamPlayers.DAssignTeamPlayers.btnAdd_Click(DAssignTeamPlayers.java:511)
+	Utilities.CDatabaseUtilities.AddPlayerToTeamInDatabase(CDatabaseUtilities.java:996)
+	net.ucanaccess.jdbc.UcanaccessResultSet.insertRow(UcanaccessResultSet.java:836)
+invalid cursor state: all column must be set before insert
+2018/12/08 05:20:11 - Default.FMain.actionPerformed(FMain.java:450)
+	Default.FMain.btnManagePlayers_Click(FMain.java:279)
+	Default.DManagePlayers.actionPerformed(DManagePlayers.java:148)
+	Default.DManagePlayers.btnDelete_Click(DManagePlayers.java:385)
+	Utilities.CDatabaseUtilities.DeletePlayerFromDatabase(CDatabaseUtilities.java:557)
+	net.ucanaccess.jdbc.UcanaccessStatement.execute(UcanaccessStatement.java:109)
+integrity constraint violation: foreign key no action; TTEAMPLAYERS_TPLAYERSTTEAMPLAYERS table: TTEAMPLAYERS
+2018/12/08 06:26:18 - Default.FMain.actionPerformed(FMain.java:448)
+	Default.FMain.btnAssignTeamPlayers_Click(FMain.java:401)
+	Default.FMain.AssignTeamPlayers(FMain.java:425)
+	TeamPlayers.DAssignTeamPlayers.actionPerformed(DAssignTeamPlayers.java:420)
+	TeamPlayers.DAssignTeamPlayers.btnAdd_Click(DAssignTeamPlayers.java:511)
+	Utilities.CDatabaseUtilities.AddPlayerToTeamInDatabase(CDatabaseUtilities.java:996)
+	net.ucanaccess.jdbc.UcanaccessResultSet.insertRow(UcanaccessResultSet.java:836)
+invalid cursor state: all column must be set before insert
+2018/12/08 08:12:02 - Default.FMain.actionPerformed(FMain.java:446)
+	Default.FMain.btnManageTeams_Click(FMain.java:257)
+	Default.DManageTeams.actionPerformed(DManageTeams.java:491)
+	Default.DManageTeams.btnEdit_Click(DManageTeams.java:299)
+	Default.DEditTeam.actionPerformed(DEditTeam.java:153)
+	Default.DEditTeam.btnOK_Click(DEditTeam.java:189)
+	Default.DEditTeam.SaveData(DEditTeam.java:233)
+	Utilities.CDatabaseUtilities.EditTeamDatabase(CDatabaseUtilities.java:410)
+	net.ucanaccess.jdbc.UcanaccessResultSet.updateRow(UcanaccessResultSet.java:1592)
+invalid cursor state: identifier cursor not positioned on row in UPDATE, DELETE, SET, or GET statement: ; ResultSet is empty
